@@ -1,26 +1,31 @@
-# Portfólio de Análise de Dados - Riuler
+# 📁 Portfólio de Análise de Dados - Riuler
 
-Bem-vindo ao meu portfólio! Aqui estão alguns dos meus projetos mais relevantes em análise de dados.
+Bem-vindo ao meu portfólio! Aqui você encontra meus projetos aplicando ferramentas como Python, Power BI e Excel para resolver problemas reais de dados.
 
-## 📊 Projetos
+---
 
-### 1. Análise de Vendas com Power BI
-- **Ferramentas**: Power BI, Excel
-- **Descrição**: Painel interativo com insights sobre vendas, regiões e sazonalidade.
-- [🔗 Link para o projeto](https://github.com/joaodasilva/powerbi-vendas)
+## 🔍 Projetos em Destaque
 
-### 2. Análise de Churn com Python
-- **Ferramentas**: Pandas, Matplotlib, Scikit-learn
-- **Descrição**: Análise preditiva para identificar clientes com risco de cancelamento.
-- [🔗 Link para o projeto](https://github.com/joaodasilva/churn-prediction)
+### 📊 [Análise de Vendas - Power BI](https://github.com/riuler/analise-vendas-powerbi)
+Dashboard interativo com indicadores de desempenho, sazonalidade e filtros dinâmicos.
 
-### 3. Dashboard Financeiro com Excel
-- **Ferramentas**: Excel, VBA
-- **Descrição**: Controle financeiro com gráficos dinâmicos e KPIs.
-- [🔗 Link para o projeto](https://github.com/joaodasilva/excel-dashboard)
+![Dashboard](link_da_imagem_ou_print)
 
-...
+---
 
-## 📫 Contato
-- [LinkedIn](https://www.linkedin.com/in/riulersilverio/)
-- E-mail: sriuler@gmail.com
+### 🤖 [Previsão de Churn - Python](https://github.com/riuler/churn-prediction)
+Modelo de machine learning para prever cancelamento de clientes com base em comportamento e perfil.
+
+---
+
+### 💰 [Gestão Financeira - Excel](https://github.com/riuler/controle-financeiro-excel)
+Planilha com dashboard dinâmico para controle de receitas, despesas e saldo mensal.
+
+---
+
+## 📬 Contato
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/riulersilverio/)
+- ✉️ sriuler@gmail.com
+
+
